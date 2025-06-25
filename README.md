@@ -1,1 +1,1 @@
-![GitHub Banner](Screenshot 2025-06-25 102214.png)
+![Banner](https://i.ibb.co/Mk4NjjkB/github-banner.png)
